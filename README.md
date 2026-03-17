@@ -31,4 +31,3 @@ LifeLink AI intelligently recommends the best blood source (donor or blood bank)
 ## 🌍 Live Demo
 https://lifelink-ai-gq6qocyneq66jxzbhsxsrj.streamlit.app/
 
-👉 [Click Here to Use](YOUR_LINK_HERE)
